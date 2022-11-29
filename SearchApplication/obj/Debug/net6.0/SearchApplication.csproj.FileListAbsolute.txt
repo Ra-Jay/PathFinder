@@ -1,0 +1,15 @@
+C:\Users\raul jay\Desktop\SearchApplication\SearchApplication\bin\Debug\net6.0\SearchApplication.exe
+C:\Users\raul jay\Desktop\SearchApplication\SearchApplication\bin\Debug\net6.0\SearchApplication.deps.json
+C:\Users\raul jay\Desktop\SearchApplication\SearchApplication\bin\Debug\net6.0\SearchApplication.runtimeconfig.json
+C:\Users\raul jay\Desktop\SearchApplication\SearchApplication\bin\Debug\net6.0\SearchApplication.dll
+C:\Users\raul jay\Desktop\SearchApplication\SearchApplication\bin\Debug\net6.0\SearchApplication.pdb
+C:\Users\raul jay\Desktop\SearchApplication\SearchApplication\obj\Debug\net6.0\SearchApplication.csproj.AssemblyReference.cache
+C:\Users\raul jay\Desktop\SearchApplication\SearchApplication\obj\Debug\net6.0\SearchApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raul jay\Desktop\SearchApplication\SearchApplication\obj\Debug\net6.0\SearchApplication.AssemblyInfoInputs.cache
+C:\Users\raul jay\Desktop\SearchApplication\SearchApplication\obj\Debug\net6.0\SearchApplication.AssemblyInfo.cs
+C:\Users\raul jay\Desktop\SearchApplication\SearchApplication\obj\Debug\net6.0\SearchApplication.csproj.CoreCompileInputs.cache
+C:\Users\raul jay\Desktop\SearchApplication\SearchApplication\obj\Debug\net6.0\SearchApplication.dll
+C:\Users\raul jay\Desktop\SearchApplication\SearchApplication\obj\Debug\net6.0\refint\SearchApplication.dll
+C:\Users\raul jay\Desktop\SearchApplication\SearchApplication\obj\Debug\net6.0\SearchApplication.pdb
+C:\Users\raul jay\Desktop\SearchApplication\SearchApplication\obj\Debug\net6.0\SearchApplication.genruntimeconfig.cache
+C:\Users\raul jay\Desktop\SearchApplication\SearchApplication\obj\Debug\net6.0\ref\SearchApplication.dll
